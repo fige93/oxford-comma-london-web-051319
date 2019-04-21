@@ -10,6 +10,6 @@ def oxford_comma(array)
       string = string + ", "
       i += 1
     end
-    string = "#{string} and #{array[i]}"
+    string = "#{string}and #{array[i]}"
   end
 end
